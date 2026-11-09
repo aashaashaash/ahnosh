@@ -2,8 +2,10 @@
 
 إعداد وتدريس: م. أمل علي سليمان
 
-[تحميل جميع الملفات في حزمة ZIP واحدة](https://github.com/aashaashaash/ahnosh/raw/refs/heads/computer-applications-stage2/course-materials/Computer_Applications_Stage2_Package.zip)
+نسخة العرض المحدثة موجهة مباشرة إلى الطلاب: شرح مرئي، أمثلة محلولة خطوة بخطوة، تطبيقات عملية، وأسئلة وإجابات، دون تعليمات خاصة بالمدرس أو ملاحظات مخفية للمتحدث. تضم 24 محاضرة في 247 شريحة.
 
-تضم الحزمة الملزمة الكاملة PDF (96 صفحة)، ونسخة Word قابلة للتعديل، وعرض PowerPoint (226 شريحة)، ومجلد الرسوم SVG وPNG، ودليل الاستخدام والفحص وملفات المصدر.
+- [تنزيل PowerPoint المحدث](https://github.com/aashaashaash/ahnosh/raw/refs/heads/computer-applications-stage2/course-materials/Computer_Applications_Stage2_Lectures.pptx)
+- [معاينة العرض بصيغة PDF](Computer_Applications_Stage2_Students.pdf)
+- [تحميل الحزمة الكاملة المحدثة ZIP](https://github.com/aashaashaash/ahnosh/raw/refs/heads/computer-applications-stage2/course-materials/Computer_Applications_Stage2_Package.zip)
 
-بعد التنزيل، اختر «استخراج الكل» أو «فك الضغط» لفتح الملفات. إذا كان المستودع خاصًا، سجّل الدخول إلى حساب GitHub الذي يملك صلاحية الوصول إليه.
+تضم الحزمة الملزمة PDF ونسخة Word والعرض المحدث والرسوم SVG وPNG وملفات المصدر ودليل الفحص.

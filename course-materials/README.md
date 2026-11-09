@@ -2,10 +2,15 @@
 
 إعداد وتدريس: م. أمل علي سليمان
 
-نسخة العرض المحدثة موجهة مباشرة إلى الطلاب: شرح مرئي، أمثلة محلولة خطوة بخطوة، تطبيقات عملية، وأسئلة وإجابات، دون تعليمات خاصة بالمدرس أو ملاحظات مخفية للمتحدث. تضم 24 محاضرة في 247 شريحة.
+## الحزمة المعتمدة: 15 أسبوعًا
 
-- [تنزيل PowerPoint المحدث](https://github.com/aashaashaash/ahnosh/raw/refs/heads/computer-applications-stage2/course-materials/Computer_Applications_Stage2_Lectures.pptx)
-- [معاينة العرض بصيغة PDF](Computer_Applications_Stage2_Students.pdf)
-- [تحميل الحزمة الكاملة المحدثة ZIP](https://github.com/aashaashaash/ahnosh/raw/refs/heads/computer-applications-stage2/course-materials/Computer_Applications_Stage2_Package.zip)
+في كل أسبوع محاضرة نظرية ومحاضرة عملية. تضم الحزمة نسخة الطالب، ومحاضرات Word، ودليل تدريس منفصلًا، وعرضًا للصف مطابقًا للأسابيع.
 
-تضم الحزمة الملزمة PDF ونسخة Word والعرض المحدث والرسوم SVG وPNG وملفات المصدر ودليل الفحص.
+- [تحميل الحزمة كاملة، وتتضمن30 ملف Word أسبوعيًا](https://github.com/aashaashaash/ahnosh/raw/refs/heads/computer-applications-stage2/course-materials/15-weeks/Computer_Applications_15_Weeks.zip)
+- [Student.pdf — للطلبة](15-weeks/Student.pdf)
+- [ملف محاضرات Word الرئيسي](15-weeks/Course_Package_15_Weeks.docx)
+- [دليل الشرح التفصيلي PDF](15-weeks/Instructor_Guide.pdf) | [نسخة Word](15-weeks/Instructor_Guide.docx)
+- [عرض الصف PowerPoint](15-weeks/Classroom_15_Weeks.pptx) | [معاينة PDF](15-weeks/Classroom_15_Weeks.pdf)
+- [دليل محتويات الحزمة](15-weeks/README_AR.txt)
+
+نسخة الطالب115 صفحة، ودليل التدريس125 صفحة، والعرض250 شريحة. يشمل ZIP أيضًا الرسوم وملفات بيانات التدريب وفهرس الأسابيع مع صفحاتها وأرقام بداية الشرائح. ملفات الإصدارات السابقة محفوظة للمقارنة؛ روابط هذا القسم تشير إلى تنظيم الأسابيع الجديد.
